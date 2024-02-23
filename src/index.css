@@ -19,8 +19,8 @@ html {
 body {
   background: radial-gradient(
       circle at top,
-      rgba(241, 210, 70, 0.98),
-      rgba(250, 176, 103, 0.87)
+      rgba(71, 70, 67, 0.98),
+      rgba(194, 175, 156, 0.87)
     ),
     url('bg-pattern-dark.png');
   background-repeat: repeat;
@@ -47,7 +47,7 @@ h1 {
 }
 
 #game-container {
-  max-width: 45rem;
+  max-width: 40rem;
   margin: 3rem auto;
   padding: 2rem;
   border-radius: 6px;
@@ -74,7 +74,7 @@ h1 {
 }
 
 #players.highlight-player li.active {
-  border-color: #f6e35a;
+  border-color: #b4b4b0;
   animation: pulse 2s infinite ease-in-out;
 }
 
