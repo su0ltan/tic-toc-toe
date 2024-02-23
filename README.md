@@ -11,7 +11,10 @@ Currently, two official plugins are available:
 Welcome to Tic Tac Toe, a classic game built using React and Vite template!
 
 ## Overview
-This project is my first venture into React development, where I aimed to create a simple yet engaging version of the timeless Tic Tac Toe game. Through this project, I familiarized myself with React's component-based architecture, state management, and the overall development workflow using Vite as a build tool.
+This project is my first React development, where I aimed to create a simple Tic Tac Toe game. Through this project, I familiarized myself with React's component-based architecture, state management, and the overall development workflow using Vite as a build tool.
+
+<img width="100" height="100" alt="image" src="https://github.com/su0ltan/tic-toc-toe/assets/53498277/a153aaaf-ad03-48af-889f-89677c532267">
+
 
 ## Features
 - Play Tic Tac Toe against a friend.
